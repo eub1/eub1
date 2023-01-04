@@ -4,7 +4,7 @@ I'm learning to build web applications. I have started learning HTML - CSS - Jav
 
 I have worked on an e-commerce for wine products. This was the final project of the bootcamp, made with 7 other developers. 
 For this project I worked on the back-end, and we decided to learn Mongo db, Mongoose and Typescript.
-You can check the project on:
+You can check the project out at: https://voluble-hummingbird-3fb9b1.netlify.app/
 
 Currently I am practicing TYPESCRIPT.
 
