@@ -3,7 +3,7 @@
 <img src="" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Euge, a full-time full-stack developer 👨‍💻 learning since 2022 🚀</div>  
+### <div align="left">I'm Euge, a full-time full-stack developer 👨‍💻 learning since 2022 🚀</div>  
   
 
 - 🔭 I’m currently learning and practicing Typescript  
@@ -47,12 +47,7 @@
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+## Connect me  
 <div align="center">
 <a href="https://github.com/eub1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
