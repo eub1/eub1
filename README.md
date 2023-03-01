@@ -4,7 +4,7 @@
 ### <div align="left">I'm Euge, a full-time full-stack developer 👨‍💻 learning since 2022 🚀</div>  
   
 
-- 🔭 I’m currently learning and practicing Typescript  
+- 🔭 I’m currently practicing React js
   
 
 <br/>  
